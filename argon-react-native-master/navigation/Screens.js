@@ -11,6 +11,7 @@ import { Block } from "galio-framework";
 import Home from "../screens/Home";
 import Onboarding from "../screens/Onboarding";
 import Pro from "../screens/Pro";
+import ShowPosts from "../screens/ShowPosts";
 import Profile from "../screens/Profile";
 import Register from "../screens/Register";
 import Elements from "../screens/Elements";
@@ -66,30 +67,13 @@ function PostsStack(props) {
   return (
     <Stack.Navigator mode="card" headerMode="screen">
       <Stack.Screen
-        name="Posts"
+        name="Upload"
         component={Posts}
         options={{
           header: ({ navigation, scene }) => (
-            <Header title="Posts" navigation={navigation} scene={scene} />
+            <Header title="Upload" navigation={navigation} scene={scene} />
           ),
           cardStyle: { backgroundColor: "#F8F9FE" }
-        }}
-      />
-            <Stack.Screen
-        name="Pro"
-        component={Pro}
-        options={{
-          header: ({ navigation, scene }) => (
-            <Header
-              title=""
-              back
-              white
-              transparent
-              navigation={navigation}
-              scene={scene}
-            />
-          ),
-          headerTransparent: true
         }}
       />
     </Stack.Navigator>
@@ -157,8 +141,8 @@ function HomeStack(props) {
         }}
       />
       <Stack.Screen
-        name="Pro"
-        component={Pro}
+        name="ShowPosts"
+        component={ShowPosts}
         options={{
           header: ({ navigation, scene }) => (
             <Header
@@ -225,10 +209,8 @@ function AppStack(props) {
     >
       <Drawer.Screen name="Home" component={HomeStack} />
       <Drawer.Screen name="Profile" component={ProfileStack} />
-      <Drawer.Screen name="Account" component={Register} />
-      <Drawer.Screen name="Elements" component={ElementsStack} />
-      <Drawer.Screen name="Posts" component={PostsStack} />
+      <Drawer.Screen name="Register" component={Register} />
+      <Drawer.Screen name="Upload" component={PostsStack} />
     </Drawer.Navigator>
   );
 }
-

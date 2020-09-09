@@ -1,23 +1,126 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="558d43f1-3a2e-403e-8679-3744bfc2eab5" name="Default Changelist" comment="" />
+    <list default="true" id="558d43f1-3a2e-403e-8679-3744bfc2eab5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/BACKUPS_2/assets/config/argon.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BACKUPS_2/assets/font/argon.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BACKUPS_2/assets/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BACKUPS_2/assets/imgs/android.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BACKUPS_2/assets/imgs/argon-logo-onboarding.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BACKUPS_2/assets/imgs/argon-logo-onboarding@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BACKUPS_2/assets/imgs/argon-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BACKUPS_2/assets/imgs/argon-logo@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BACKUPS_2/assets/imgs/argonlogo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BACKUPS_2/assets/imgs/bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BACKUPS_2/assets/imgs/getPro-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BACKUPS_2/assets/imgs/getPro-bg@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BACKUPS_2/assets/imgs/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BACKUPS_2/assets/imgs/ios.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BACKUPS_2/assets/imgs/profile-screen-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BACKUPS_2/assets/imgs/register-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BACKUPS_2/assets/imgs/splash.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BACKUPS_2/assets/imgs/uplad-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BACKUPS_2/assets/nucleo icons/svg/bag-17.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BACKUPS_2/assets/nucleo icons/svg/basket.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BACKUPS_2/assets/nucleo icons/svg/bell.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BACKUPS_2/assets/nucleo icons/svg/calendar-date.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BACKUPS_2/assets/nucleo icons/svg/chart-pie-35.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BACKUPS_2/assets/nucleo icons/svg/diamond.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BACKUPS_2/assets/nucleo icons/svg/engine-start.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BACKUPS_2/assets/nucleo icons/svg/g-check.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BACKUPS_2/assets/nucleo icons/svg/hat-3.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BACKUPS_2/assets/nucleo icons/svg/ic_mail_24px.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BACKUPS_2/assets/nucleo icons/svg/map-big.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BACKUPS_2/assets/nucleo icons/svg/menu-8.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BACKUPS_2/assets/nucleo icons/svg/nav-down.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BACKUPS_2/assets/nucleo icons/svg/nav-left.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BACKUPS_2/assets/nucleo icons/svg/nav-right.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BACKUPS_2/assets/nucleo icons/svg/padlock-unlocked.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BACKUPS_2/assets/nucleo icons/svg/palette.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BACKUPS_2/assets/nucleo icons/svg/search-zoom-in.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BACKUPS_2/assets/nucleo icons/svg/shop.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BACKUPS_2/assets/nucleo icons/svg/spaceship.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BACKUPS_2/assets/nucleo icons/svg/support.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BACKUPS_2/assets/nucleo icons/svg/switches.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BACKUPS_2/assets/nucleo icons/svg/ungroup.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BACKUPS_2/assets/splash.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BACKUPS_2/components/Button.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BACKUPS_2/components/Card.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BACKUPS_2/components/DrawerItem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BACKUPS_2/components/Header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BACKUPS_2/components/Header_BACKUP.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BACKUPS_2/components/Icon.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BACKUPS_2/components/Input.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BACKUPS_2/components/Select.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BACKUPS_2/components/Switch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BACKUPS_2/components/Tabs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BACKUPS_2/components/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BACKUPS_2/constants/Images.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BACKUPS_2/constants/Theme.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BACKUPS_2/constants/articles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BACKUPS_2/constants/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BACKUPS_2/constants/tabs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BACKUPS_2/constants/tags.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BACKUPS_2/constants/utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BACKUPS_2/navigation/Menu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BACKUPS_2/navigation/Screens.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BACKUPS_2/screens/Elements.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BACKUPS_2/screens/Home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BACKUPS_2/screens/Onboarding.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BACKUPS_2/screens/Posts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BACKUPS_2/screens/Pro.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BACKUPS_2/screens/Profile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BACKUPS_2/screens/Register.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/imgs/uplad-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screens/ShowPosts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BACKUPS/components/DrawerItem.js" beforeDir="false" afterPath="$PROJECT_DIR$/BACKUPS/components/DrawerItem.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/imgs/argon-logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/imgs/argon-logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/imgs/argon-logo@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/imgs/argon-logo@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Card.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/Card.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/DrawerItem.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/DrawerItem.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/Header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/constants/Images.js" beforeDir="false" afterPath="$PROJECT_DIR$/constants/Images.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/constants/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/constants/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/navigation/Menu.js" beforeDir="false" afterPath="$PROJECT_DIR$/navigation/Menu.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/navigation/Screens.js" beforeDir="false" afterPath="$PROJECT_DIR$/navigation/Screens.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/screens/Elements_Backup.js" beforeDir="false" afterPath="$PROJECT_DIR$/BACKUPS_2/screens/Elements_Backup.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/screens/Onboarding.js" beforeDir="false" afterPath="$PROJECT_DIR$/screens/Onboarding.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/screens/Posts.js" beforeDir="false" afterPath="$PROJECT_DIR$/screens/Posts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/screens/Profile.js" beforeDir="false" afterPath="$PROJECT_DIR$/screens/Profile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/screens/Register.js" beforeDir="false" afterPath="$PROJECT_DIR$/screens/Register.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1gZidrGQFYUguIH3iiLLcgr3ktj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="HTML" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/constants" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\starl\Documents\GitHub\DATATON_Recommendation_System\argon-react-native-master\constants" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -32,22 +135,36 @@
     </task>
     <servers />
   </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.js" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="349" y="167" key="AndroidCreateResourceDirectoryDialog" timestamp="1599620087697">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="349" y="167" key="AndroidCreateResourceDirectoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1599620087697" />
     <state x="173" y="167" key="FileChooserDialogImpl" timestamp="1598353201213">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="173" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1598353201213" />
-    <state x="-6" y="0" width="934" height="824" key="SettingsEditor" timestamp="1598352840925">
+    <state x="-6" y="0" width="934" height="824" key="SettingsEditor" timestamp="1599613467638">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="-6" y="0" width="934" height="824" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1598352840925" />
-    <state x="100" y="100" width="583" height="624" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1598758271044">
+    <state x="-6" y="0" width="934" height="824" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1599613467638" />
+    <state x="100" y="100" width="583" height="624" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1599359508875">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="100" y="100" width="583" height="624" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1536.824@0.0.1536.824" timestamp="1598758271044" />
-    <state x="47" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1598352363721">
+    <state x="100" y="100" width="583" height="624" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1536.824@0.0.1536.824" timestamp="1599359508875" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1599365864123">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="47" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1598352363721" />
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1599365864123" />
+    <state x="47" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1599620200983">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="47" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1599620200983" />
   </component>
 </project>
