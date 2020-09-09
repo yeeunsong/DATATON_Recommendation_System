@@ -151,7 +151,7 @@ class Posts extends React.Component {
                         >
                           <Text bold size={14} color={argonTheme.COLORS.BLACK}>
                           태그 추천받기
-                        </Text>
+                          </Text>
                         </Button>
                       </Block>
 
