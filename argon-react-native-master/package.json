@@ -26,16 +26,18 @@
     "expo-font": "~8.2.1",
     "galio-framework": "^0.6.3",
     "prop-types": "^15.7.2",
-    "react": "16.11.0",
-    "react-native": "https://github.com/expo/react-native/archive/sdk-38.0.2.tar.gz",
+    "react": "^16.9.0",
+    "react-native": "^0.61.5",
     "react-native-gesture-handler": "~1.6.0",
     "react-native-modal-dropdown": "^0.7.0",
     "react-native-reanimated": "~1.9.0",
-    "react-native-safe-area-context": "~3.0.7",
+    "react-native-safe-area-context": "^0.6.0",
     "react-native-screens": "~2.9.0",
     "react-native-vector-icons": "^7.0.0",
     "react-native-webview": "9.4.0",
-    "react-refresh": "^0.8.2"
+    "react-native-windows": "^0.61.0-beta.58",
+    "react-refresh": "^0.8.2",
+    "watchman": "^1.0.0"
   },
   "devDependencies": {
     "babel-preset-expo": "^8.2.3"
