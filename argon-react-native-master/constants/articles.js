@@ -2,7 +2,7 @@ export default [
   {
     title: '[KU_BIG] 고려대학교 빅데이터 연구회 KU-BIG에서 12기 신입부원을 모집합니다!',
     image: 'https://user-images.githubusercontent.com/49232148/91652196-ac6a5100-eacf-11ea-9108-6c1a9a33bb0c.png',
-    cta: '08/30', 
+    cta: '08/30',
     horizontal: true
   },
   {
