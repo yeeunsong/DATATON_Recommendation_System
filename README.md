@@ -16,7 +16,7 @@
 ## 교내 스마트 배너 최적 입지 선정 
 강의실별/강의시간별 학생 데이터를 활용해 장소 별 학생 유동인구를 파악하고, folium을 통해 시각화하였다.   
 ![folium](https://user-images.githubusercontent.com/49232148/99149298-69804880-26d0-11eb-8392-15d845859527.png)   
-
+![folium2](https://user-images.githubusercontent.com/49232148/99149374-f6c39d00-26d0-11eb-89e1-65d41e8d20bd.png)   
 
 
 ------------------------------------------------
