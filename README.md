@@ -1,7 +1,26 @@
-# DATATON_Recommendation_System
+# Korea Univ Promotional Materials Management System
 
-## 프로젝트 설명
-학생 강의 데이터를 활용하여 교내 스마트 배너 설치 최적 입지를 선정하고 추천시스템이 탑재된 홍보물 자동화 관리 시스템을 구축한다.      
+## About
+Selection of the optimal location for installing smart banners on campus and an automated promotional management equipped with recommendation system.     
+
+
+- **1-classroom-data-EDA**:    
+EDA of student lecture data for optimal location of smart banners   
+
+- **2-classroom-data-visualization**:    
+Analyze the optimal location for installing smart banners with visualization
+
+- **3-crawling-promotional-materials**:    
+Collection of promotional material data from various online communities
+
+- **4-recommendation-system**:    
+Promotional material recommendation system
+
+- **5-LSTM-material-subject-matching**:    
+LSTM model that suggests the categories of promotional materials registered by the users
+
+- **6-app-implementation**:    
+App implementation using React Native, Flask, and MySQL
 
 
 ------------------------------------------------------------------
