@@ -1,0 +1,23 @@
+export default tags = {
+  categories: [
+    { id: '1', title: '봉사' },
+    { id: '2', title: '예술' },
+    { id: '3', title: '사회' },
+    { id: '4', title: 'IT' },
+	{ id: '5', title: '공모전' },
+	{ id: '6', title: '경영' },
+	{ id: '7', title: '과학' },
+	{ id: '8', title: '미술' },
+	{ id: '9', title: '대외활동' },
+	{ id: '10', title: '운동' },
+	{ id: '11', title: '취업' },
+	{ id: '12', title: '동아리' },
+	{ id: '13', title: '언어' },
+	{ id: '14', title: '친목' },
+	{ id: '15', title: '종교' },
+	{ id: '16', title: '스터디' },
+	{ id: '17', title: '연합' },
+	{ id: '18', title: '학회' },
+	{ id: '19', title: '음악' },
+	],
+}
