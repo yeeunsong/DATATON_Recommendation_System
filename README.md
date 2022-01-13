@@ -1,4 +1,4 @@
-# Korea Univ Promotional Materials Management System
+# Korea Univ Promotional Material Management System
 
 ## About
 Selection of the optimal location for installing smart banners on campus and an automated promotional management equipped with recommendation system.     
