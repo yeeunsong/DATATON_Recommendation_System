@@ -1,7 +1,7 @@
 # Korea Univ Promotional Material Management System
 
 ## About
-Selection of the optimal location for installing smart banners on campus and an automated promotional management equipped with recommendation system.     
+Selection of the optimal location for installing smart banners on campus and an automated promotional materials management equipped with recommendation system.     
 
 
 - **1-classroom-data-EDA**:    
