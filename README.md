@@ -44,7 +44,7 @@ App implementation using React Native, Flask, and MySQL
 
 ![슬라이드2](https://user-images.githubusercontent.com/49232148/149512279-234ecfd9-e552-4077-a78d-df1e4cbfea8c.PNG)
 ![슬라이드3](https://user-images.githubusercontent.com/49232148/149512283-dc53e65b-e8f6-4162-9934-b677f4a20249.PNG)  
-
+![배너-위치-제안](https://user-images.githubusercontent.com/49232148/169486280-985c35c3-22fd-47df-9e92-58ae07783311.png)
 
 ------------------------------------------------
 
